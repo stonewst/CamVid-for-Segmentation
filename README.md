@@ -1,5 +1,4 @@
 # CamVid-for-Segmentation
-CamVid Dataset for Segmentation
 
 ### Introduction
 &emsp;&emsp;This is the CamVid dataset for segmentation. You can download it for your usage.
@@ -12,3 +11,4 @@ CamVid Dataset for Segmentation
 + test: test image file
 + testannot: test label file
 + class_palette.csv: name and palette of each of the 11 semantic classes
+
