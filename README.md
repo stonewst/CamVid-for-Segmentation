@@ -4,7 +4,7 @@ CamVid Dataset for Segmentation
 ### Introduction
 &emsp;&emsp;This is the CamVid dataset for segmentation. You can download it for your usage.
 
-#### Sturcture
+### Sturcture
 + train: train image file
 + trainannot: train label file
 + val: val image file
